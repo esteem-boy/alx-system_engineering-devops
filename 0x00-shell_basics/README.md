@@ -8,3 +8,4 @@ Task #6: This code Create a script that creates a directory named my_first_direc
 Task #7: This code Moves the file betty from /tmp/ to /tmp/my_first_directory.
 Task #8: This code deletes the file betty.
 Task #9: This code Deletes the directory my_first_directory that is in the /tmp directory.
+Task #10: This code will write a script that changes the working directory to the previous one.
