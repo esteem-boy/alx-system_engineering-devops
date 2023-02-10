@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 236 hello ello
+chmod 664 hello ello
