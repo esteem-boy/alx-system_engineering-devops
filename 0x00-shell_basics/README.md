@@ -1,1 +1,1 @@
-Task #5: Display current directory contents, in a long format, user and group IDs numerically and showing also hidden files
+Task #6: Create a script that creates a directory named my_first_directory in the /tmp/ directory.
