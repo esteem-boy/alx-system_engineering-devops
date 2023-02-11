@@ -10,3 +10,4 @@ Task #8: This script the owner and group owner any permission but allow other ac
 Task #9: This script sets the mode of the file hello to this -rwxr-x-wx
 Task #10: This script sets the mode of the file hello the same as olleh’s mode
 Task #11: This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Task #12: This will create a script that creates a directory called my_dir with permissions 751 in the working directory.
