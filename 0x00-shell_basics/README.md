@@ -14,3 +14,4 @@ Task #12: This code will script prints the type of the file named iamafile. The 
 Task #13: This code will Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 Task #14: This code should only copy the HTML files that are found in the current directory but are not in the parent directory or those files with a newer version than the ones in the parent directory
 Task #15: This script should moves all files beginning with an uppercase letter to the directory /tmp/u.
+Task #16: This script deletes all files in the current working directory that end with the character ~.
