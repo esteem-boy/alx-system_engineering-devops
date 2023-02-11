@@ -11,3 +11,4 @@ Task #9: This code Deletes the directory my_first_directory that is in the /tmp 
 Task #10: This code will write a script that changes the working directory to the previous one.
 Task #11: This code will display list of files including hidden one in the current directory, parent directory and in the /boot directory.
 Task #12: This code will script prints the type of the file named iamafile. The file iamafile will be in the /tmp directory, when it is printed
+Task #13: This code will Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
