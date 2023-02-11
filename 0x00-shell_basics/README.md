@@ -17,3 +17,4 @@ Task #15: This script should moves all files beginning with an uppercase letter 
 Task #16: This script deletes all files in the current working directory that end with the character ~.
 Task #16: This script will that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Task #18: This script Write a command that lists all the files and directories of the current directory, separated by commas (,).
+Task #19: This script Create a magic file school.mgc that can be used with the command file to detect School data files.
