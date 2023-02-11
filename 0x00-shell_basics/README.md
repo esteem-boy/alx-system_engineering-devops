@@ -15,3 +15,4 @@ Task #13: This code will Create a symbolic link to /bin/ls, named __ls__. The sy
 Task #14: This code should only copy the HTML files that are found in the current directory but are not in the parent directory or those files with a newer version than the ones in the parent directory
 Task #15: This script should moves all files beginning with an uppercase letter to the directory /tmp/u.
 Task #16: This script deletes all files in the current working directory that end with the character ~.
+Task #16: This script will that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
