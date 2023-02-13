@@ -1,1 +1,3 @@
 This script Write a script that prints “Hello, World”, followed by a new line to the standard output.
+Task #1: This will write a script that displays a confused smiley "(Ôo)'.
+Task #2: This script will display the content of the /etc/passwd file.
