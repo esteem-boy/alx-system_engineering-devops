@@ -1,1 +1,2 @@
-This project is all about shell, init files, variables and expansions. It is titled 0x03 Shell, init files, variables and expansions
+Task #0: This projects aimed at creating an executable file that produces and alias of rm with ls
+Task #1: This project aimed at Creating a script that will print Hello user, where user is the Linux OS user
