@@ -1,2 +1,2 @@
 #!/bin/bash
-var $MYVAR = "printenv"
+var $MYVAR="printenv"
