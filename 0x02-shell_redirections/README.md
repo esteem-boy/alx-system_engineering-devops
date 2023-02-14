@@ -21,3 +21,4 @@ Task #19: Replace all characters A and c from input to Z and e respectively.
 Task #19: Replace all characters A and c from input to Z and e respectively.
 Task #19: Replace all characters A and c from input to Z and e respectively.
 Task #20: Create a script that removes all letters c and C from input.
+Task #21: Write a script that reverse its input.
