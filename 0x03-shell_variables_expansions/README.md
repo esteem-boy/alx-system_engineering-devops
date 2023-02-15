@@ -9,3 +9,4 @@ Task #7: This script will create a global variable with the name BEST and value 
 Task #8: The result of this script should produce the arithematic sum of integer 128 and the value of a variable named KNOWLEDGE
 Task #9: Write a script that print the result of POWER divided by DIVIDE and followed by a new line
 Task #10: Write a script that displayed the result ofBREATH to the power of LOVE. Where BREATH and LOVE and both environment variables
+Task #11: Write a script that convert a number from base 2 to base 10
