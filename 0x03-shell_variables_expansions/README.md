@@ -12,3 +12,7 @@ Task #10: Write a script that displayed the result ofBREATH to the power of LOVE
 Task #11: Write a script that convert a number from base 2 to base 10
 Task #12: This script when executeed will prints all possible combination of two letters except oo to the standard output
 Task #13: This script should prints a number that has two decimal places, and followed by with an empty line
+Task #14: Write a script that converts a number from base 10 to bas 16.
+Task #15: Write a script that encode and decodes using the rot13 encryption. Assume ASCII
+Task #16: Write a script that print every other line from the input, starting with the first line
+Task #17: Write a script that adds the two numbers stored in the environment varible WATER and STIR and prints the result
