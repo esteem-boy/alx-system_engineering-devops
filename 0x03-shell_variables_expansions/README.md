@@ -10,5 +10,5 @@ Task #8: The result of this script should produce the arithematic sum of integer
 Task #9: Write a script that print the result of POWER divided by DIVIDE and followed by a new line
 Task #10: Write a script that displayed the result ofBREATH to the power of LOVE. Where BREATH and LOVE and both environment variables
 Task #11: Write a script that convert a number from base 2 to base 10
-Task # 12: This script when executeed will prints all possible combination of two letters except oo to the standard output
+Task #12: This script when executeed will prints all possible combination of two letters except oo to the standard output
 Task #13: This script should prints a number that has two decimal places, and followed by with an empty line
