@@ -5,3 +5,4 @@ Task #3: Create a script that count the number of directories in the PATH
 Task #4: Create a script that print environment variables
 Task #5: This project aim at creating a local varible that will print all local variables and environment variables and functions
 Task #6: This code when execute will create a new variable with a new value
+Task #7: This script will create a global variable with the name BEST and value School when executed
