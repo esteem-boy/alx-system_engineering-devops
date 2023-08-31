@@ -33,4 +33,7 @@ Delete the file betty.
 Task #9: Bye bye My first directory
 Delete the directory my_first_directory that is in the /tmp directory.
 
-Task #10: 
+Task #10: Back to the future
+Write a script that changes the working directory to the previous one.
+
+Task #11: 
