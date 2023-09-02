@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R +Xx /*
+find . -type d -exec chmod 711 {} \
